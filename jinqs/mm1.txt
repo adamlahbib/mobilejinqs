@@ -1,0 +1,12 @@
+LambdaRate: 4.0 - ServiceTime: 0.125 - Completions: 3999911 - Duration: 1000000.0
+Rmodel: 0.25 - QModel (no-of-cust in the system): 1.0 - Pmodel: 0.5
+Lsim: 3.999911 - Ssim: 0.12489973263114147
+Rsim: 0.24944691165541116 - QSim (no-of-cust in the system): 0.9977654458465073 - PSim: 0.4995797551703832
+no-of-cust (in the queue): 0.49818532283476963
+
+LambdaRate: 4.0 - ServiceTime: 0.125 - Completions: 4001482 - Duration: 1000000.0
+Rmodel: 0.25 - QModel (no-of-cust in the system): 1.0 - Pmodel: 0.5
+Lsim: 4.001482 - Ssim: 0.1249630424330726
+Rsim: 0.249832402818987 - QSim (no-of-cust in the system): 0.9996998628969258 - PSim: 0.5000279572939604
+no-of-cust (in the queue): 0.4996706960038149
+
